@@ -106,6 +106,11 @@ def plot_stats(csv_path, output_path):
             if count > 0:
                 # Apply mapping or use original name
                 display_name = category_map.get(cat, cat)
+                
+                # Exclude Gibberish
+                if display_name == "Gibberish":
+                    continue
+
                 labels.append(display_name)
                 sizes.append(count)
         
