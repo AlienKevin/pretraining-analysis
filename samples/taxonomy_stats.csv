@@ -1,0 +1,28 @@
+model,category,num_of_category
+llama-3.2-1b,News,13
+llama-3.2-1b,QA,37
+llama-3.2-1b,Code,21
+llama-3.2-1b,Advertisement,11
+llama-3.2-1b,Social Media,9
+llama-3.2-1b,Paper,4
+llama-3.2-1b,Wiki,5
+llama-3.2-1b,Multilingual (Not English/Chinese),0
+llama-3.2-1b,Completely nonsense text,0
+gpt2-large,News,50
+gpt2-large,QA,0
+gpt2-large,Code,0
+gpt2-large,Advertisement,10
+gpt2-large,Social Media,20
+gpt2-large,Paper,4
+gpt2-large,Wiki,5
+gpt2-large,Multilingual (Not English/Chinese),0
+gpt2-large,Completely nonsense text,11
+qwen3-0.6b,News,4
+qwen3-0.6b,QA,18
+qwen3-0.6b,Code,34
+qwen3-0.6b,Advertisement,5
+qwen3-0.6b,Social Media,13
+qwen3-0.6b,Paper,7
+qwen3-0.6b,Wiki,3
+qwen3-0.6b,Multilingual (Not English/Chinese),5
+qwen3-0.6b,Completely nonsense text,11
